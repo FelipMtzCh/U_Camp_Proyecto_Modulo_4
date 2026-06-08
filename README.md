@@ -73,13 +73,13 @@ El programa genera:
 
 ## Ejecutando programa
 
-![Ejecutando programa](Ejecutando%20Programa.png)
+![Ejecutando programa](Evidencia%20Consulta%20Pokedex/Ejecutando%20Programa.png)
 
 ## Contenido del archivo
 
-![Contenido archivo](Contenido%20Archivo.png)
+![Contenido archivo](Evidencia%20Consulta%20Pokedex/Contenido%20Archivo.png)
 
 ## Pokémon graficado
 
-![Pokémon graficado](Pokemon%20Graficado.png)
+![Pokémon graficado](Evidencia%20Consulta%20Pokedex/Pokemon%20Graficado.png)
   
