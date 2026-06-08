@@ -1,0 +1,27 @@
+{
+    "nombre": "blastoise",
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "altura": "1.6 m",
+    "peso": "85.5 kg",
+    "tipos": [
+        "water"
+    ],
+    "habilidades": [
+        "torrent",
+        "rain-dish"
+    ],
+    "movimientos": [
+        "chilling-water",
+        "ice-spinner",
+        "tera-blast",
+        "wave-crash"
+    ],
+    "estadisticas": {
+        "Vida": 79,
+        "Ataque": 83,
+        "Defensa": 100,
+        "Ataque Especial": 85,
+        "Defensa Especial": 105,
+        "Velocidad": 78
+    }
+}
