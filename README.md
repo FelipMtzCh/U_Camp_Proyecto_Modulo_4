@@ -68,4 +68,18 @@ El programa genera:
 2. Explorar los datos obtenidos de la PokeAPI.
 3. Uso de la libreria Path para el manejo de carpetas y archivos.
 4. Uso de la libreria Json para la creación de archivos Json, agregando identación para un mejor acomodo en el archivo.
+
+---
+
+## Ejecutando programa
+
+![Ejecutando programa](Ejecutando%20Programa.png)
+
+## Contenido del archivo
+
+![Contenido archivo](Contenido%20Archivo.png)
+
+## Pokémon graficado
+
+![Pokémon graficado](Pokemon%20Graficado.png)
   
